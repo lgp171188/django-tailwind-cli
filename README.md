@@ -82,3 +82,5 @@ If you want to contribute to this project, checkout the [development guide](http
 ## License
 
 This software is licensed under [MIT license](https://github.com/oliverandrich/django-tailwind-cli/blob/main/LICENSE).
+
+Hello
